@@ -1,0 +1,81 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value"
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WINS",
+      "TRY": "DEMO WINS"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "PLAY WITH MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_stop": "REVEAL ALL",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+    
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+    
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+    },
+
+    "howToPlay": "HOW TO PLAY",
+    "page1": "Press a Birdhouse symbol to reveal Bird or Golden Egg symbol.\n\nPress a PRIZE box to reveal the row’s prize value.\n\nFind 3 identical Bird symbol in any row to win the row's prize value.\n\nFind an instant win Golden Egg to win the row's prize value instantly!",
+
+    "winUpTo": {
+      "landscape": "WIN UP TO",
+      "portrait": "WIN UP TO {0}!"
+    },
+
+    "prizeLabel": "PRIZE",
+    
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS"
+  }
+}

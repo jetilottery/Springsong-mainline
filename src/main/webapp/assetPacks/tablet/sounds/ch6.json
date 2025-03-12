@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch6.mp3",
+    "ch6.ogg",
+    "ch6.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "MatchingSymbolSelect_3": [
+      1050,
+      1994.6938775510203
+    ],
+    "RevealAllButton": [
+      3100,
+      2800.0000000000005
+    ]
+  }
+}
